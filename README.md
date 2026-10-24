@@ -51,6 +51,19 @@ Highlights include:
 - CSV export and database backup
 - Local-first storage for privacy and reliability
 
+## Other projects
+
+### 🏥 [SIH-V3 — Hospital Information System](https://github.com/gkung20/SIH-V3)
+
+Full-stack healthcare information system with role-based dashboards and modules for patients, appointments, medical records, pharmacy, laboratory workflows, billing, hospitalization, imaging, and patient access.
+
+**Node.js · MySQL · JavaScript · JWT · AI-assisted workflows**
+
+### 🚧 [ProjectDev](https://github.com/gkung20/projectdev)
+
+An additional project space for ongoing development and experimentation.
+
+
 ## Let's connect
 
 I'm interested in learning, building useful software, and collaborating on projects that solve concrete problems.
